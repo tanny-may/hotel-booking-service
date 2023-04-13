@@ -1,3 +1,4 @@
+![1921](https://user-images.githubusercontent.com/111642725/231720852-96ed0b78-7cf4-45cf-8913-f66a3a1ea858.jpg)
 # hotel-booking-service
 Моя первая вёрстка landing page сайта для бронирования отелей с учётом таких особенностей, как: 
 семантика разметки, 
@@ -6,4 +7,4 @@ pixel perfect вёрстка,
 отправка форм на {JSON} Placeholder, 
 hover-эффекты для кнопок.
 
-![preview](https://user-images.githubusercontent.com/111642725/231693633-cc137893-6c94-4bed-a0e7-582a5d79248e.jpg)
+
