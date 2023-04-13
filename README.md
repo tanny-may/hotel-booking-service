@@ -6,5 +6,5 @@
 - отправка форм на {JSON} Placeholder, 
 - hover-эффекты для кнопок.
 
-![1921](https://user-images.githubusercontent.com/111642725/231720852-96ed0b78-7cf4-45cf-8913-f66a3a1ea858.jpg)
+![preview_Lagoona](https://user-images.githubusercontent.com/111642725/231722056-968671a0-abf6-43be-a4f9-45424ed779a5.jpg)
 
