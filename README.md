@@ -4,7 +4,7 @@
 https://tanny-may.github.io/hotel-booking-site/
 
 ## О проекте
-Задание из курса Skillbox - вёрстка десктопной версии главной страницы.
+Задание из курса Skillbox - вёрстка десктопной версии landing page для сайта бронирования отелей.
 
 ![preview_Lagoona](https://user-images.githubusercontent.com/111642725/231722056-968671a0-abf6-43be-a4f9-45424ed779a5.jpg)
 
@@ -14,6 +14,7 @@ https://tanny-may.github.io/hotel-booking-site/
 * hover-эффекты для кнопок 
 * подключение шрифтов
 * pixel perfect вёрстка
+* различные поля ввода в форме
 * отправка форм на {JSON} Placeholder
 
 ## Запуск проекта локально
